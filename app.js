@@ -15,7 +15,7 @@ MongoClient.connect("mongodb://annadivreddy:Vinod999@ds123400.mlab.com:23400/sam
         dbins = db;
         console.log('we are connected:::::');
     }
-});
+});    
 
 //var db = mongoose.connect(' ');
 
